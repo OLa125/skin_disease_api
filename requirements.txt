@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pillow
+torch
+torchvision
+numpy
+tensorflow
+python-multipart
+gdown>=4.4.0
